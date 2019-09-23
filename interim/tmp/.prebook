@@ -472,32 +472,8 @@
     "innerHtml": "As for the Hippogriff, he accepted the position of the King's Own Rocking Horse—a situation left vacant by the retirement of the wooden one. And the Blue Bird and the Butterfly sing and flutter among the lilies and roses of the Palace garden to this very day."
   },
   {
-    "tag": "p",
-    "innerHtml": "![UNCLE JAMES"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Or The Purple"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "STRANGER](images/gs05.jpg \"UNCLE JAMES"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Or The Purple"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "STRANGER\")"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-book-of-dragons/master/assets/images/gs05.jpg"
   },
   {
     "tag": "hr",
